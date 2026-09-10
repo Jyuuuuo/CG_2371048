@@ -21,6 +21,10 @@ public class S04_Mesh3D : MonoBehaviour
             2, 5, 3,
             3, 5, 4,
             4, 5, 1,
+            1, 2, 0,
+            2, 3, 0,
+            3, 4, 0,
+            4, 1, 0,
 
         };
 
